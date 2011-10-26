@@ -1,0 +1,10 @@
+Couple of scripts to download Blogger posts and add to the database, as well as comments
+
+REALLY hacked together:
+
+- Only works in pretty specific database format
+- Completely hand-waves over encoding issues
+- No real way to do partial, or steps, mainly in one big go
+- commandline spam, with no real options
+
+Bottom line, try to avoid using Blogger in the first place if you ever plan to move away from it
